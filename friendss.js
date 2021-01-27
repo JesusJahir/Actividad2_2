@@ -40,5 +40,12 @@
     "edad": 31,
     "telefono": "8541524173",
     "direccion": "Folklore, Evermore, USA"
+  },
+  {
+    "nombre": "Lorde",
+    "hobby": "Dormir",
+    "edad": 21,
+    "telefono": "5558522152",
+    "direccion": "Melodrama, Wellington, New Zealand"
   }
 ]
