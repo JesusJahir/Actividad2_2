@@ -47,5 +47,47 @@
     "edad": 21,
     "telefono": "5558522152",
     "direccion": "Melodrama, Wellington, New Zealand"
+  },
+  {
+    "nombre": "Adam",
+    "hobby": "Tocar la guitarra",
+    "edad": 41,
+    "telefono": "2500448300",
+    "direccion": "Maroon 5 Avenue, California, USA"
+  },
+  {
+    "nombre": "Dan",
+    "hobby": "Pescar",
+    "edad": 33,
+    "telefono": "2187556002",
+    "direccion": "Imagine Dragons Street, Nevada, USA"
+  },
+  {
+    "nombre": "Dua",
+    "hobby": "Tomar fotos",
+    "edad": 25,
+    "telefono": "5812280143",
+    "direccion": "Future Nostalgia, London, UK"
+  },
+  {
+    "nombre": "Gaga",
+    "hobby": "Actriz",
+    "edad": 34,
+    "telefono": "1543872465",
+    "direccion": "The Fame, Chromatica, USA"
+  },
+  {
+    "nombre": "Sam",
+    "hobby": "Escuchar música",
+    "edad": 28,
+    "telefono": "4820672824",
+    "direccion": "Lonely Hour, London, UK"
+  },
+  {
+    "nombre": "Lana",
+    "hobby": "Golf",
+    "edad": 35,
+    "telefono": "7624824214",
+    "direccion": "Summertime Sadness, New York, USA"
   }
 ]
