@@ -1,4 +1,4 @@
-amigos: [
+results: [
   {
     "nombre": "Katy",
     "hobby": "Cantar",
