@@ -1,4 +1,4 @@
-[
+amigos: [
   {
     "nombre": "Katy",
     "hobby": "Cantar",
